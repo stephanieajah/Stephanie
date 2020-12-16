@@ -16,7 +16,7 @@ public class StephanieSAssignment {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-         for(int i=1; i<=50; i++){
+         for(int i=1; i<=100; i++){
             if(i%(3*5)==0)
                 System.out.println("FizzBuzz");
             else if(i%5==0)
